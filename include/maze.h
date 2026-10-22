@@ -3,6 +3,8 @@
 
 #include <stdbool.h>
 
+#include "grid.h"
+
 #define MAZE_WIDTH  9
 #define MAZE_HEIGHT 7
 
