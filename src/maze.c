@@ -13,7 +13,7 @@ static const char INITIAL_LAYOUT[MAZE_HEIGHT][MAZE_WIDTH+1] = { // +1 for '\0'
     "#.#...#.#",
     "#o..#..o#",
     "#.#...#.#",
-    "#.......#",
+    "#.. ....#",
     "#########"
 };
 
